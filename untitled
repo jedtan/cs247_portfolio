@@ -1,0 +1,9 @@
+<h1 class="text-right"> FASHIONCENTS</h1>
+<p class="text-right"> 
+	<br>
+	<img src="images/fashioncents_1.png" width="200">
+	<img src="images/fashioncents_2.png" width="200">
+</p>
+<h1 class="text-right">Format: iOS<br><br></h1>
+<h3 class="text-center"> Redesigning the Basketball Workout</h3>
+<p>BallSoHard was developed for the iPhone to revolutionize how Basketball players craft and perfect their game. Created for the Stanford Class CS193P, BallSoHard uses objective statistics and analytics to push a players skills. Users can use the app to create drills and workouts, do drills or workouts and track their progress and improvement. </p>
